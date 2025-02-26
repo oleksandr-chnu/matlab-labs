@@ -1,4 +1,4 @@
 # matlab-labs
 
 список демо зображень 
-![image info](images.jpg)
+![image info](README_media/images.jpg)
