@@ -2,4 +2,4 @@
 
 Cписок демо зображень
  
-![image info](./README_media/images.jpg)
+![image info](../README_media/images.jpg)
